@@ -1,2 +1,0 @@
-# Curriculos
-Guardar Currículos
