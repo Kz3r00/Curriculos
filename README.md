@@ -300,10 +300,7 @@
                         <span>Lagoa da Prata, MG</span>
                         <i class="fas fa-map-marker-alt"></i>
                     </div>
-                    <div class="contact-item">
-                        <span>linkedin.com/in/ueliton</span>
-                        <i class="fab fa-linkedin"></i>
-                    </div>
+
                 </div>
             </div>
         </header>
